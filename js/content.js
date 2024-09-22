@@ -1,4 +1,4 @@
-const BASE_URL = "https://notionthemes.netlify.app";
+const BASE_URL = "mi1na.github.io/themes/";
 
 const sendMessage = async (params) => {
   return new Promise((resolve, reject) => {
