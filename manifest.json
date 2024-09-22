@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Notion Themes",
+  "name": "viv Themes",
   "version": "0.0.2",
   "description": "Make your Notion pretty with custom themes.",
   "permissions": ["storage"],
